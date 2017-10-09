@@ -11,4 +11,7 @@ JAVA -R jar_name
 After this, we will prompted for an input in the new line, it reads the input from the command prompt    
 The first line of the input must contain the Test Case number which should be in between 1 - 4 inclusive  
 The second line of the input must contain the Number of Variables  
-The subsequent lines should contain the Test inputs.
+The subsequent lines should contain the Test inputs.  
+
+
+For the Weak Robust Equivalence class, I have taken invalid inputs as negative numbers.
