@@ -8,7 +8,7 @@ This should build a .jar file for the project in the target Directory
 Now Navigate to the .jar file which should be present in the Target Folder and run the program by using the command
 JAVA -R jar_name
 
-After this, we will prompted for an input in the new line  
+After this, we will prompted for an input in the new line, it reads the input from the command prompt    
 The first line of the input must contain the Test Case number which should be in between 1 - 4 inclusive  
 The second line of the input must contain the Number of Variables  
 The subsequent lines should contain the Test inputs.
