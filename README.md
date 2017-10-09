@@ -1,5 +1,5 @@
 # cs490-fall2017-sqa-assignment1
-This is a Maven Project,Import it as a Maven Project. To build the project just go to the root directory of the project and install MAVEN 
+This is a Maven Project,Import it as a Maven Project. Please make sure the name of the Project is Assignment, or when you clone the Project, clone it into a folder called Assignment. To build the project just go to the root directory of the project and install MAVEN 
 by using the command
 MVN install
 
